@@ -29,7 +29,7 @@ Before running the application first install the following dependencies:
   pip install jupyterlab 
   pip install hvplot
   pip install pyviz
-  pip install scikit-learn
+  pip install fbprophet
   pip instal pathlib
 
 ```
