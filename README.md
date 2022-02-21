@@ -40,10 +40,25 @@ To view the analysis, clone the repository using "git clone <link>" and then nav
 
 Some snapshots of the inertia plots and cluster plots of Original data vs PCA data are imaged below:
 
-![inertia plots](https://github.com/Summi-Khanna/Challenge-10/blob/main/Images/elbow_curve.png)  
+![Trend plots MAy 2020 ](https://i.imgur.com/tzdejf1.png)  
 
 
-![cluster plots](https://github.com/Summi-Khanna/Challenge-10/blob/main/Images/cluster_plot.png) 
+![Weekly Trends](https://i.imgur.com/9qWZTDt.png) 
+
+
+![Mercado Stock Close](https://i.imgur.com/iTk2coM.png) 
+
+
+![First Half 2020 Closing Price/Search Trends](https://i.imgur.com/PpL1xDk.png) 
+
+
+![Mercado Stock Trends](https://i.imgur.com/ZXOmTP8.png)
+
+
+![Mercado Sales Plot](https://i.imgur.com/sLIkDVL.png)
+
+
+![Component Plot](https://i.imgur.com/14nCkEp.png)
  
 
 ---
